@@ -1,5 +1,5 @@
-# portfolio_template
+# Lord's Portfolio:
 
-This is a template for a portfolio website.
 
-click on the "index.html" file for the home page
+
+Click on the deployed link bellow description to view my website.
