@@ -1,5 +1,4 @@
 # Lord's Portfolio:
+(Click on the deployed link bellow description to view my portfolio website.)
 
-
-
-Click on the deployed link bellow description to view my website.
+It depicts my interets, relevant courses, research areas etc.
